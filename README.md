@@ -16,9 +16,7 @@ This folder is used to save prediction output file
 Download the repository and create corresponding environment.
 
 ```
-@Override
-protected void onDestroy() {
-    EventBus.getDefault().unregister(this);
-    super.onDestroy();
-}
+git clone https://github.com/zjupgx/DeepCIP.git
+cd ./DeepIRES
+conda env create -f environment.yml
 ``` 
