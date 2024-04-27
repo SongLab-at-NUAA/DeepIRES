@@ -1,0 +1,2 @@
+model_checkpoint_path: "first"
+all_model_checkpoint_paths: "first"
