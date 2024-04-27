@@ -31,8 +31,8 @@ Run DeepIRES.py file to predict IRES
 python DeepIRES.py -i input_file -o output_name 
 ```
 ```
--i input file : the input file in .fa or .fasta format.This file should be located in **data** folder containing the sequneces you want to predict.
--o output name : the output name you want to use.The result is saved in .csv format in **result** folder.
+-i input file : the input file in .fa or .fasta format.This file should be located in data folder containing the sequneces you want to predict.
+-o output name : the output name you want to use.The result is saved in .csv format in result folder.
 ```
 ### For example
 ```
